@@ -1,7 +1,7 @@
 
 
 <template>
-    <DefaultAuthCard subtitle="Start for free" title="Sign In to TailAdmin">
+    <DefaultAuthCard subtitle="Start for free" title="Sign In to DynaLink">
       <form>
         <InputGroup label="Email" type="email" placeholder="Enter your email">
           <svg

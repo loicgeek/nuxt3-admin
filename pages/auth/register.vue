@@ -3,7 +3,7 @@
 <template>
 
 
-    <DefaultAuthCard subtitle="Start for free" title="Sign Up to TailAdmin">
+    <DefaultAuthCard subtitle="Start for free" title="Sign Up to DynaLink">
       <form>
         <InputGroup label="Name" type="text" placeholder="Enter your full name">
           <svg
